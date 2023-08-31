@@ -4,15 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+![Lab image](/assets/img/about.jpeg){:class="img-responsive"}
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Welcome to my personal blog.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I love technology and the transformative power it has to impact people's lives.
 
+I also like to try new things and mix things up.
 
-[jekyll-organization]: https://github.com/jekyll
+I want to share here my studies and my experiences.
+
+Find me through the contacts below or through [Linkedin](https://www.linkedin.com/in/vilmar-bispo-filho-05075951/).
+
+👋🏾
