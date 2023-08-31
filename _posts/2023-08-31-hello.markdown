@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Hello"
+date:   2023-08-31 19:00:00 -0300
+categories: welcome 
+---
+![Hello image](/assets/img/hello.jpeg){:class="img-responsive"}
+
+> I'm looking for a place that needs a lot of renovation and
+> repair but has a solid foundation. I'm willing to demolish walls,
+> build bridges and light camps. 
+> I have a lot of experience, a lot of energy, a little of that
+> vision thing and I'm not afraid to start from zero.
+>
+> Steve Jobs
